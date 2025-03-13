@@ -19,7 +19,7 @@ Beim Erkunden verbindet das Labyrinth manchmal einen Gang mit einem bestehenden 
 Ebenso hat es in den Korridoren Wände die keine Räume enthalten oder Verzweigungen die in einer Sackgasse münden.<br>
 Dann wird man auf das Element zurückgeworfen wo man herkam. Einfach nicht beirren lassen.<br>
 Es gibt aber keine Garantie das alle Wege des Labyrinths zu allen Rätsel führen.<br>
-Hat der Spieler Einfluss auf das Labyrinth? Damn, if I knew!
+Hat der Spieler Einfluss auf das Labyrinth? Damn, if I only knew!
 
 <b><h2>Anfänger-Tips</h2></b><br>
 * <h4>Rätsel</h4>Die Rätselaufgaben bestehen darin, Dinge die man mitnehmen kann in den richtigen Raum zu bringen. Z.B.: Den Bezinkanister in den Raum mit dem Auto. Schon ist ein Rätsel gelöst.
