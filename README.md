@@ -19,11 +19,11 @@ Beim Erkunden verbindet das Labyrinth manchmal einen Gang mit einem bestehenden 
 Ebenso hat es in den Korridoren Wände die keine Räume enthalten oder Verzweigungen die in einer Sackgasse münden.<br>
 Dann wird man auf das Element zurückgeworfen wo man herkam. Einfach nicht beirren lassen.<br>
 Es gibt aber keine Garantie das alle Wege des Labyrinths zu allen Rätsel führen.<br>
-Hat der Spieler Einfluss auf das Labyrinth? Damned if I'd know!
+Hat der Spieler Einfluss auf das Labyrinth? Damn, if I knew that!
 
 <b><h2>Anfänger-Tips</h2></b><br>
-* <h4>Rätsel</h4>Die Rätselaufgaben bestehen darin, Dinge die man mitnehmen kann in den richtigen Raum zu bringen. Z.B.: Den Bezinkanister zum Auto. Schon ist ein Rätsel gelöst.
-* <h4>Fortschritt handschriftlich notieren.</h4>Da sich die Optionen für die Fortbewegung über ein Element, an den Verbindungspunkten orientieren und nicht an den Richtungen, ändern sie sich, einmal verbunden, für den Rest des Spiels nicht mehr. Ebenso die ID's der Elemente. So können die Elemente leicht als Quadrate mit ID und Verbindungspunkte notiert werden. Tip: Immer im Gegenuhrzeigersinn.<br>
+* <h4>Rätsel</h4>Die Rätselaufgaben bestehen darin, Dinge die man mitnehmen kann in den richtigen Raum zu bringen. Z.B.: Den Bezinkanister in den Raum mit dem Auto. Schon ist ein Rätsel gelöst.
+* <h4>Fortschritt handschriftlich notieren.</h4>Da sich die Optionen für die Fortbewegung, durch einen Raum, Abzweigung oder Korridor, an dessen Verbindungspunkten orientieren und nicht an den Richtungen. Ändern sich diese, einmal entdeckt, für den Rest des Spiels nicht mehr. Ebenso die ID's der Elemente. So können die Elemente leicht als Quadrate mit ID und Verbindungspunkte notiert werden. Tip: Immer im Gegenuhrzeigersinn.<br>
 &#160;&#160;&#160;&#160;&#160;&#160;1&#160;&#124;<br>
 &#160;&#160;&#160;&#160;&#45;&#124;&#45;&#45;&#45;&#45;&#124;&#45;<br>
 &#45;&#160;2&#160;&#124;&#160;ID&#160;&#124;&#160;4&#160;&#45;<br>
